@@ -62,3 +62,10 @@ div h3{
     width: 100% !important;
     height: 250px;
 }
+
+.About {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(../Fotot/background.jpg);
+}
